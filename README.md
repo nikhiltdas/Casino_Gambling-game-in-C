@@ -1,5 +1,5 @@
 # Casino_Gambling-game-in-C
-This is a console-based casino gambling game implemented in C. It offers a simulated casino experience where players can try their luck and potentially win virtual money.
+This is a console-based casino gambling game implemented in C. The project is done as a part of mini project of my post graduate degree course in computer application. It offers a simulated casino experience where players can try their luck and potentially win virtual money.
  programming language: The game is implemented using the C programming language, making it efficient and platform-independent.
 - Console interface: The game utilizes a console-based interface, allowing it to be easily played on different operating systems without the need for graphical libraries.
 - Basic programming knowledge: Players should have a basic understanding of programming concepts to navigate through the game and interact with the user interface effectively.
